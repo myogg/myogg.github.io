@@ -4,9 +4,9 @@
 ####################################
 #
 title: myogg
-email: zhujiajun.me@gmail.com
-description: zhujiajun's blog,powered by jekyll.
-url: https://myogg.github.io/bbbb/ # the base hostname & protocol for your site
+email: xxjss@hotmail.com
+description: myogg's blog,powered by jekyll.
+url: https://myogg.github.io/ # the base hostname & protocol for your site
 keywords: ["jekyll", "java", "scala","blog"]
 
 #
@@ -14,7 +14,7 @@ keywords: ["jekyll", "java", "scala","blog"]
 # Jekyll configuration
 ####################################
 #
-timezone:          Asia/china
+timezone:          Asia/xi'an
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -37,13 +37,13 @@ plugins:
 ####################################
 #
 owner:
-  name: zhujiajun
+  name: myogg
   avatar: avatar.jpg
-  job: "Java & Scala Developer"
-  bio: "A backend developer who loves design awesome things. Working for Dianping at in Shanghai, China."
-  email: zhujiajun.me@gmail.com
+  job: "blog & jekyll theme"
+  bio: "A backend developer who loves design awesome things. Working for Dianping at in xi'an, China."
+  email: xxjss@hotmail.com
   disqus-shortname: #username
-  twitter:  #username
+  twitter:  Jlengyu
   facebook: #username
   google:
     plus: #username
@@ -52,7 +52,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: zjiajun #username
+  github: myogg #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
