@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 将天气预报变成一幅画
+excerpt: Traditional weather stations often display sensor readings as raw numerical data. Navigating these dashboards can be overwhelming and stressful, as it requires significant effort to locate, interpret, and visualize specific parameters effectively
 tag:
   - 天气
 ---
