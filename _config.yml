@@ -3,10 +3,10 @@
 # Site wide configuration
 ####################################
 #
-title: zhujiajun
+title: myogg
 email: zhujiajun.me@gmail.com
 description: zhujiajun's blog,powered by jekyll.
-url: https://zjiajun.github.io # the base hostname & protocol for your site
+url: https://myogg.github.io # the base hostname & protocol for your site
 keywords: ["jekyll", "java", "scala","blog"]
 
 #
@@ -14,7 +14,7 @@ keywords: ["jekyll", "java", "scala","blog"]
 # Jekyll configuration
 ####################################
 #
-timezone:          Asia/Shanghai
+timezone:          Asia/china
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
