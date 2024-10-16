@@ -70,9 +70,8 @@ owner:
   codepen: #username
   telegram: #username
 # Disqus settings
+netease_comment: false
 
-# disqus_username: Lucy
-// 添加这个就行,上面的只是为了你能方便找到地方
 gitalk:
     enable: true
     owner: myogg
