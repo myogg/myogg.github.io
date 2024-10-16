@@ -70,12 +70,3 @@ owner:
   codepen: #username
   telegram: #username
 # Disqus settings
-netease_comment: false
-
-gitalk:
-    enable: true
-    owner: myogg
-    repo: myogg.github.io
-    clientID: Ov23liFQJrMHaPJlrobq
-    clientSecret: b72ef6f3bc0baba34845b9e251eaa59ad61ac8e2
-    admin: myogg
