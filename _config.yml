@@ -72,9 +72,6 @@ owner:
 # Disqus settings
 
 # disqus_username: Lucy
-
-# Netease settings
-netease_comment: false
 // 添加这个就行,上面的只是为了你能方便找到地方
 gitalk:
     enable: true
