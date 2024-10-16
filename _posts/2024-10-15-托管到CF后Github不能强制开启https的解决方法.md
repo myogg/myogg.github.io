@@ -22,5 +22,10 @@ GitHub Pages 可以通过开启 Enforce HTTPS 来获取免费的可信证书，�
 GitHub 会自动申请 SSL 证书，有了这个证书才能够在 Cloudflare 开启 Full (strict)
 
 等待 Pages 的 HTTPS 生效后，回到 Cloudflare，把刚才修改的 Proxy status 全部恢复为 Proxied 状态，即橙色的云朵
-到 SSL/TLS 设置中，将 Encryption Mode 设置为 Full (strict)
+到 SSL/TLS 设置中，将 Encryption Mode 设置为 Full (strict).
+
+##### 本文转自如下网址.具体可看
+
+[网址]((https://siriusq.top/github-pages-%E5%90%AF%E7%94%A8-cloudflare-%E5%8A%A0%E9%80%9F%E5%8F%8A-https.html)
+
 
