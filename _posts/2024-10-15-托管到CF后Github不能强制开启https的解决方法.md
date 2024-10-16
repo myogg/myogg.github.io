@@ -26,6 +26,6 @@ GitHub 会自动申请 SSL 证书，有了这个证书才能够在 Cloudflare �
 
 ##### 本文转自如下网址.具体可看
 
-[网址]((https://siriusq.top/github-pages-%E5%90%AF%E7%94%A8-cloudflare-%E5%8A%A0%E9%80%9F%E5%8F%8A-https.html)
+[网址](https://siriusq.top/github-pages-%E5%90%AF%E7%94%A8-cloudflare-%E5%8A%A0%E9%80%9F%E5%8F%8A-https.html)
 
 
