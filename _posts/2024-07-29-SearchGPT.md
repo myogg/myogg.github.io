@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      OpenAI 推出 AI 搜索搜索功能
-author:     mymsnn
+excerpt:    谷歌母公司 Alphabet 的股价当天下跌 3%
 catalog: 	 true
 tags:
     - OpenAI
