@@ -78,8 +78,8 @@ netease_comment: false
 // 添加这个就行,上面的只是为了你能方便找到地方
 gitalk:
     enable: true
-    owner: ***zibi
-    repo: *****.github.io
-    clientID: ****c08c2ec52afbcb30
-    clientSecret: *******79e7b42cf782a1d2d1b5a410d27c5ab57
-    admin: **zibi
+    owner: myogg
+    repo: myogg.github.io
+    clientID: Ov23liFQJrMHaPJlrobq
+    clientSecret: b72ef6f3bc0baba34845b9e251eaa59ad61ac8e2
+    admin: myogg
