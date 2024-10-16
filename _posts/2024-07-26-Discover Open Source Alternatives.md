@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Discover Open Source Alternatives to Popular Software
-author:     mymsnn
+excerpt:   Discover Open Source Alternatives to Popular Software
 catalog: 	 true
 tags:
     - Software
