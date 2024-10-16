@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  托管到CF后Github不能强制开启https的解决方法.md
+title:  托管到CF后Github不能强制开启https的解决方法
 categories: [java]
 tags: [github,https,]
 ---
