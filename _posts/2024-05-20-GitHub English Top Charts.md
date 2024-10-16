@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      GitHub English Top Charts
-author:     mymsnn
+excerpt:   GitHub English Top Charts
 catalog: 	 true
 tags:
     - Github
