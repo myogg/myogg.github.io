@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: github, Scala, MySQL, Design, English
+aspects: Java, Scala, MySQL, Design, English
 percentage: 70, 60, 50, 70, 30
