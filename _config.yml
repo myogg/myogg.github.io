@@ -31,13 +31,6 @@ plugins:
   - jekyll-gist
   - jemoji
 
-# Disqus settings
-gitalk:
-  enable: true
-  github_id: myogg
-  repo: myogg.github.io
-  client_id: Ov23liTERQCVK9Deyd2u
-  client_secret: 3720a407e74c1ce6f35f0185095aa79002759956
 
 #
 ###################################
