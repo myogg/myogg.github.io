@@ -42,7 +42,7 @@ owner:
   job: "blog & jekyll theme"
   bio: "A backend developer who loves design awesome things. Working for Dianping at in xi'an, China."
   email: xxjss@hotmail.com
-  disqus-shortname: #username
+  disqus-shortname: myogg
   twitter:  Jlengyu
   facebook: #username
   google:
@@ -70,3 +70,9 @@ owner:
   codepen: #username
   telegram: #username
 # Disqus settings
+gitalk:
+  enable: true
+  github_id: myogg
+  repo: myogg.github.io
+  client_id: Ov23liTERQCVK9Deyd2u
+  client_secret: 3720a407e74c1ce6f35f0185095aa79002759956
