@@ -41,24 +41,6 @@ layout: default
   </article>
 </div>
 
-<div id="gitalk-container"></div>
-<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
-<script src="/js/md5.min.js"></script>
-<script type="text/javascript">
-    var gitalk = new Gitalk({
-        clientID: 'Ov23liTERQCVK9Deyd2u',
-        clientSecret: '3720a407e74c1ce6f35f0185095aa79002759956',
-        repo: 'myogg.github.io',
-        owner: 'myogg',
-        admin: ['myogg'],
-        id: md5(location.href.match('/(?<=posts/)(.*)(?=/)/')[1]),
-        language: 'en',
-        perPage: 10,
-    });
-    gitalk.render('gitalk-container');
-</script>
-
 <div class="share-buttons">
   <h6>Share on: </h6>
   <ul>
@@ -80,4 +62,9 @@ layout: default
   </ul>
 </div><!-- end share-buttons -->
 
-
+  <!--   gitalk       -->
+  {% if site.gitalk %}
+  <div class="comment">
+  {% include comments.html %}
+  </div>
+  {% endif %}
