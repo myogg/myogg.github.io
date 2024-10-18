@@ -7,7 +7,7 @@ title: myogg
 email: xxjss@hotmail.com
 description: myogg's blog,powered by jekyll.
 url: https://myogg.github.io # the base hostname & protocol for your site
-keywords: ["jekyll", "theme", "scala","blog"]
+keywords: ["jekyll", "java", "scala","blog"]
 
 #
 ###################################
@@ -31,7 +31,6 @@ plugins:
   - jekyll-gist
   - jemoji
 
-
 #
 ###################################
 # Site Owner configuration
@@ -43,7 +42,7 @@ owner:
   job: "blog & jekyll theme"
   bio: "A backend developer who loves design awesome things. Working for Dianping at in xi'an, China."
   email: xxjss@hotmail.com
-  disqus-shortname: myogg
+  disqus-shortname: #username
   twitter:  Jlengyu
   facebook: #username
   google:
@@ -69,5 +68,5 @@ owner:
   weibo: #username
   flickr: #username
   codepen: #username
-  telegram: @myogg
-
+  telegram: #username
+# Disqus settings
