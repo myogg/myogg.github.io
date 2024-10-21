@@ -8,7 +8,7 @@ categories: programming
 ---
 [Llama Coder - AI 生成应用程序](https://llamacoder.together.ai/)
 
-Llama Coder 是 Claude Artifacts的开源替代方案，通过简单的自然语言描述，便可以生成一个应用程序
+Llama Coder 是 ClaudeArtifacts的开源替代方案，通过简单的自然语言描述，便可以生成一个应用程序
 
 ![](https://pic.superbed.cc/item/671651d9fa9f77b4dca49c1f.jpg)
 
